@@ -1,3 +1,3 @@
-name = input("§Aªº¦W¤l?")
-age = int(input("§A¤µ¦~´X·³"))
+name = input("ä½ çš„åå­æ˜¯?")
+age = int(input("ä½ ä»Šå¹´å¹¾æ­²"))
 print (name ,age)
